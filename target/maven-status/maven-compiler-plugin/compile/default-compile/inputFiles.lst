@@ -1,0 +1,11 @@
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/WebConfig.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/model/Item.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/controller/ItemController.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/model/Purchase.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/repository/ItemRepository.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/SalesApplication.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/repository/SupplierRepository.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/controller/SupplierController.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/model/Supplier.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/controller/PurchaseController.java
+/Users/dsozhara/Documents/SalesApplication/src/main/java/com/spring/repository/PurchaseRepository.java
